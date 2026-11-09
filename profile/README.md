@@ -1,10 +1,12 @@
 # ColdIQ
 
-ColdIQ is a unified GTM data API. One API key, one MCP server and one chat give you 40+ data providers and 700+ endpoints.
+Get Unlimited B2B Data: people, companies, emails and phone numbers from 40+ providers, with one API key.
 
-- Unlimited Data: company, people, email and phone data.
-- Buying and intent signals: know which accounts are ready to buy.
-- MCP server: every provider inside Claude Code and your AI tools. https://coldiq.com/mcp
-- Managed Service: our team runs your outbound for you. https://coldiq.com/implementation
+Three ways to use it:
+- From any AI coding agent, through our MCP server: https://coldiq.com/mcp
+- From your own code, through the API.
+- Or let our team run your outbound for you: https://coldiq.com/implementation
 
-Start for free: https://coldiq.com
+Our free GTM skills for Claude Code are here: https://github.com/Cold-IQ/ColdIQ-s-GTM-Skills
+
+Start for free at https://coldiq.com
